@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Detroit Conference United Methodist Men]]></title>
+        <description><![CDATA[Detroit Conference United Methodist Men]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 14 Mar 2016 22:32:47 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3ea34a72-5bf6-4a61-9ed9-93fafcbc0bc4.png" alt="" title="">]]></description>
+            <link>undefined603a1e1c-9cb3-45d5-86b4-01bb4c951428/index.html</link>
+            <guid isPermaLink="false">603a1e1c-9cb3-45d5-86b4-01bb4c951428</guid>
+            <pubDate>Mon, 14 Mar 2016 22:32:47 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
