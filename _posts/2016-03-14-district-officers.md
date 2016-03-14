@@ -6,9 +6,9 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'President: John Walls'
-datePublished: '2016-03-14T23:52:54.184Z'
-dateModified: '2016-03-14T23:51:56.338Z'
-title: Detroit Renaissance District
+datePublished: '2016-03-14T23:50:09.698Z'
+dateModified: '2016-03-14T23:48:56.397Z'
+title: District Officers
 author: []
 sourcePath: _posts/2016-03-14-district-officers.md
 published: true
@@ -22,10 +22,10 @@ url: district-officers/index.html
 _type: Article
 
 ---
-# Detroit Renaissance District
+Det
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e2f8d8cd-aa91-4d09-8449-fc3d6aea76f6.png)
 
-## District Officers
+# District Officers
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e6d86a92-b318-4061-b290-09d2d1e86dfb.jpg)
 
 President: John Walls
@@ -45,7 +45,7 @@ Treasurer: Ron Fadoir
 
 Scouting Coordinator: Pat Bradley
 
-## News
+# Detroit Renaissance District News
 
 **Background:**
 
