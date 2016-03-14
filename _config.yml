@@ -1,0 +1,28 @@
+name: Detroit Conference United Methodist Men
+favicon: null
+layout_spectrum: 0.27384276362136006
+typography_spectrum: 0.4807286805007607
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.6038670744746923
+  lightness: 0.8466482830699533
+  saturation: 0.9755455504637212
+  rhythmicContrast: 0.22202765359543264
+purpose: []
