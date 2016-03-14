@@ -3,21 +3,21 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: true
+starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-14T22:21:36.132Z'
-dateModified: '2016-03-14T22:21:09.513Z'
+datePublished: '2016-03-14T22:28:39.308Z'
+dateModified: '2016-03-14T22:28:28.396Z'
 title: United Methodist Men
 author: []
+sourcePath: _posts/2016-03-14-united-methodist-men.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-14-united-methodist-men.md
-published: true
 url: united-methodist-men/index.html
 _type: Article
 
