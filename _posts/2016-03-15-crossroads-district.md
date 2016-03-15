@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Carlton Kinney, Secretary'
-datePublished: '2016-03-15T00:17:10.187Z'
-dateModified: '2016-03-15T00:17:06.315Z'
+datePublished: '2016-03-15T00:17:56.297Z'
+dateModified: '2016-03-15T00:17:38.397Z'
 title: Crossroads District
 author: []
 sourcePath: _posts/2016-03-15-crossroads-district.md
