@@ -5,9 +5,9 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: 'James C. Walker: Flint District President'
-datePublished: '2016-03-15T00:14:43.215Z'
-dateModified: '2016-03-15T00:14:36.428Z'
+description: 'Carlton Kinney, Secretary'
+datePublished: '2016-03-15T00:17:10.187Z'
+dateModified: '2016-03-15T00:17:06.315Z'
 title: Crossroads District
 author: []
 sourcePath: _posts/2016-03-15-crossroads-district.md
@@ -23,13 +23,12 @@ _type: Article
 
 ---
 # Crossroads District
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/88e7dc7e-d49b-4da1-8261-d0eda55e2798.png)
-
-# 
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/3e06b484c8e8db80fb35668f1460db603209eca7.png)
 
 # Officers
-![](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/5f1930c06ec5e80d034e4c94ea1cf30e/passthrough.png?height=563&input=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fthe-grid-img%2Fp%2Fc726f4097552ee1523d31c850b06546a72cc2335.png&width=750)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/640be830-941c-4a26-8043-fa7ff5a23f43.png)
+
+James C. Walker: President
 
 Rick Holzheuer, Vice President
 
