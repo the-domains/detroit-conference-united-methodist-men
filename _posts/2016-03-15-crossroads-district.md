@@ -5,9 +5,9 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: 'Carlton Kinney, Secretary'
-datePublished: '2016-03-15T00:20:07.458Z'
-dateModified: '2016-03-15T00:19:57.806Z'
+description: 'James C. Walker: President'
+datePublished: '2016-03-15T00:25:44.956Z'
+dateModified: '2016-03-15T00:25:31.040Z'
 title: Crossroads District
 author: []
 sourcePath: _posts/2016-03-15-crossroads-district.md
