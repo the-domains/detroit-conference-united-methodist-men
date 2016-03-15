@@ -6,22 +6,26 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'James C. Walker: Flint District President'
-datePublished: '2016-03-15T00:12:57.092Z'
-dateModified: '2016-03-15T00:11:49.584Z'
+datePublished: '2016-03-15T00:13:49.779Z'
+dateModified: '2016-03-15T00:13:30.807Z'
 title: Crossroads District
 author: []
+sourcePath: _posts/2016-03-15-crossroads-district.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-15-crossroads-district.md
-published: true
 url: crossroads-district/index.html
 _type: Article
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/88e7dc7e-d49b-4da1-8261-d0eda55e2798.png)
+
+# 
+
 # Crossroads District
 
 ## Officers
