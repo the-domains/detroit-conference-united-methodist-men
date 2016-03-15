@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'James C. Walker: Flint District President'
-datePublished: '2016-03-15T00:13:49.779Z'
-dateModified: '2016-03-15T00:13:30.807Z'
+datePublished: '2016-03-15T00:14:43.215Z'
+dateModified: '2016-03-15T00:14:36.428Z'
 title: Crossroads District
 author: []
 sourcePath: _posts/2016-03-15-crossroads-district.md
@@ -22,16 +22,14 @@ url: crossroads-district/index.html
 _type: Article
 
 ---
+# Crossroads District
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/88e7dc7e-d49b-4da1-8261-d0eda55e2798.png)
 
 # 
 
-# Crossroads District
-
-## Officers
+# Officers
+![](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/5f1930c06ec5e80d034e4c94ea1cf30e/passthrough.png?height=563&input=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fthe-grid-img%2Fp%2Fc726f4097552ee1523d31c850b06546a72cc2335.png&width=750)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/640be830-941c-4a26-8043-fa7ff5a23f43.png)
-
-James C. Walker: Flint District President
 
 Rick Holzheuer, Vice President
 
@@ -40,12 +38,10 @@ Carlton Kinney, Secretary
 Jim McEwen, Treasurer
 
 Richard Taylor, Nominations
+![](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/c382b6ea113c0bb6d01d414edd3ae30a/passthrough.jpg?height=500&input=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fthe-grid-img%2Fp%2Ffac270488be9e474f5ef0850c38ab84bc1e267c4.jpg&width=750)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d9380dcc-4591-48a7-b93d-37a00291a506.jpg)
-
-Howard Christian: Hunger Relief & SoSA Representative
+![](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/ead9407a43b71ca4ca75a9bab242da30/passthrough.png?height=600&input=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fthe-grid-img%2Fp%2F347bd45a0230b5f8d30d6a5bbcd3226b842a45c6.png&width=460)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/72772cca-65f5-4ce8-8912-14305c5e1f0b.png)
-
-Peter Thoms M.D.: Prayer Advocate
 
 Bob Sanders, Scouting Representative
 
